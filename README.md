@@ -28,6 +28,7 @@ RALocalizer.swizzleClassesMethods()
 ```
 
 For change language use `.setLanguage(language: *required language*)`
+<br>
 Example:
 ```swift
 RALanguage.setLanguage(language: .hebrew)
