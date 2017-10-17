@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'RALocalization_Example' do
+  pod 'RALocalization', :path => '../'
+
+  target 'RALocalization_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase' , '~> 2.1.4'
+  end
+end
