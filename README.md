@@ -33,6 +33,8 @@ Example:
 ```swift
 RALanguage.setLanguage(language: .hebrew)
 ```
+<br>
+If you have a subview with `UIImageView` just add tag (-1) to it to RTL if your using `Hebrew` or `Arabic`
 
 ## Installation
 
