@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'RALocalization'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of RALocalization.'
+  s.summary          = 'RALocalization provides simple yet robust right-to-left(RTL) capability for Swift.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+RALocalization is a simple framework that improves localization in Swift iOS apps - providing cleaner syntax and in-app language switching.
                        DESC
 
   s.homepage         = 'https://github.com/rallahaseh/RALocalization'
@@ -26,17 +26,12 @@ TODO: Add long description of the pod here.
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'rallahaseh' => 'rallahaseh@gmail.com' }
   s.source           = { :git => 'https://github.com/rallahaseh/RALocalization.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.social_media_url = 'https://twitter.com/rallahaseh'
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'RALocalization/Classes/**/*'
-  
-  # s.resource_bundles = {
-  #   'RALocalization' => ['RALocalization/Assets/*.png']
-  # }
+  s.pod_target_xcconfig = { 'SWIFT_VERSION' => '4.0' }
 
-  # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+  s.source_files = 'RALocalization/Classes/**/*'
+
 end

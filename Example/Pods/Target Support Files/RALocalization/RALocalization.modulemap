@@ -1,0 +1,6 @@
+framework module RALocalization {
+  umbrella header "RALocalization-umbrella.h"
+
+  export *
+  module * { export * }
+}

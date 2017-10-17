@@ -1,0 +1,16 @@
+PODS:
+  - RALocalization (0.1.0)
+
+DEPENDENCIES:
+  - RALocalization (from `../`)
+
+EXTERNAL SOURCES:
+  RALocalization:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RALocalization: 77047d601e0d5e82049f19664964ac3891f823f3
+
+PODFILE CHECKSUM: 35fa420317b8699d0755e56d3cae1812f6ec4524
+
+COCOAPODS: 1.2.0

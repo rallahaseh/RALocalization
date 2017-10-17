@@ -1,0 +1,15 @@
+
+/* Class = "UITextField"; placeholder = "Text Field"; ObjectID = "1Y4-vA-YRd"; */
+"1Y4-vA-YRd.placeholder" = "שדה טקסט";
+
+/* Class = "UILabel"; text = "Hello World"; ObjectID = "Ddx-HJ-udY"; */
+"Ddx-HJ-udY.text" = "שלום עולם";
+
+/* Class = "UILabel"; text = "Programmatically Changed"; ObjectID = "gBx-MO-6sk"; */
+"gBx-MO-6sk.text" = "שונה באופן פרוגרמטי";
+
+/* Class = "UILabel"; text = "Back changed ?"; ObjectID = "iu7-Ou-57E"; */
+"iu7-Ou-57E.text" = "הקודם השתנה?";
+
+/* Class = "UIButton"; normalTitle = "Try Back ?"; ObjectID = "lgS-iX-515"; */
+"lgS-iX-515.normalTitle" = "נסה לחזור?";

@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_RALocalization_Example_RALocalization_Tests : NSObject
+@end
+@implementation PodsDummy_Pods_RALocalization_Example_RALocalization_Tests
+@end

@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  RALocalization
+
+  Created by Rashed Al Lahaseh on 10/17/17.
+  Copyright © 2017 CocoaPods. All rights reserved.
+*/
+
+"changeLanguage" = "שנה שפה";
