@@ -5,11 +5,20 @@
 [![License](https://img.shields.io/cocoapods/l/RALocalization.svg?style=flat)](http://cocoapods.org/pods/RALocalization)
 [![Platform](https://img.shields.io/cocoapods/p/RALocalization.svg?style=flat)](http://cocoapods.org/pods/RALocalization)
 
+<br>
+<img src="https://media.giphy.com/media/26n7aMoR9RbXCLnR6/giphy.gif"/>
+<br>
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-## Requirements
+## Usage
+If Cocapod
+
+```swift
+import RALocalization
+```
 
 ## Installation
 
