@@ -16,7 +16,7 @@ RALocalization is a simple framework that improves localization in Swift iOS app
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Usage
-If Cocapod
+Import the framework
 
 ```swift
 import RALocalization
